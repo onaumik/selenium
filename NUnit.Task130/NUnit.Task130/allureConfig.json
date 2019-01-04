@@ -1,6 +1,6 @@
-﻿{
+{
   "allure": {
-    "directory": "D:\\training\\Selenium\\allure-reports\\allure-results3",
+    "directory": "C:\\Program Files (x86)\\Jenkins\\workspace\\Task130\\allure-report",
     "allowEmptySuites": true,
     "enableParameters": true,
     "allowLocalHistoryTrend": false
