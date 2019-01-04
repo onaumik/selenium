@@ -1,6 +1,6 @@
 {
   "allure": {
-    "directory": "C:\Program Files (x86)\Jenkins\workspace\Task130\allure-results",
+    "directory": "C:\\Program Files (x86)\\Jenkins\\workspace\\Task130\\allure-results",
     "allowEmptySuites": true,
     "enableParameters": true,
     "allowLocalHistoryTrend": false
